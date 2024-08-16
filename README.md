@@ -16,6 +16,17 @@
 </p>
 
 ## Screenshots - Desktop
-<img src="https://res.cloudinary.com/dpbcaizq9/image/upload/v1723844662/homepage-ngshop_grtnch.png"/>
+<img src="https://res.cloudinary.com/dpbcaizq9/image/upload/v1723846955/dashboard-admin_oi2aik.png"/>
+<img src="https://res.cloudinary.com/dpbcaizq9/image/upload/v1723847020/product-list-admin_b936kh.png"/>
+<img src="https://res.cloudinary.com/dpbcaizq9/image/upload/v1723847094/order-list-admin_o4vy8g.png"/>
+<img src="https://res.cloudinary.com/dpbcaizq9/image/upload/v1723847143/order-details-admin_rzjayo.png"/>
+<img src="https://res.cloudinary.com/dpbcaizq9/image/upload/v1723847232/edit-product-admin_ztmmjj.png"/>
 
-
+## Screenshots - Mobile
+<img src="https://res.cloudinary.com/dpbcaizq9/image/upload/v1723847290/dashboard-mobile-admin_cy6xvi.png"/>
+<img src="https://res.cloudinary.com/dpbcaizq9/image/upload/v1723847421/order-statistics-mobile-admin_vtjtnf.png"/>
+<img src="https://res.cloudinary.com/dpbcaizq9/image/upload/v1723847484/menu-mobile-admin_lsbhsc.png"/>
+<img src="https://res.cloudinary.com/dpbcaizq9/image/upload/v1723847528/product-list-mobile-admin_gmvbhh.png"/>
+<img src="https://res.cloudinary.com/dpbcaizq9/image/upload/v1723847698/order-list-mobile-admin_t3zazg.png"/>
+<img src="https://res.cloudinary.com/dpbcaizq9/image/upload/v1723847739/order-details-mobile-admin_aa7aqw.png"/>
+<img src="https://res.cloudinary.com/dpbcaizq9/image/upload/v1723847793/login-mobile-admin_kphqlb.png"/>
